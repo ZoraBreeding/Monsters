@@ -1,0 +1,8 @@
+   412 dracula.txt
+ 78097 frankenstein.txt
+   521 horrorWords.txt
+ 28761 jekyll.txt
+   576 twilightVampires.txt
+   315 vampire.txt
+    91 zombie.txt
+108773 total
